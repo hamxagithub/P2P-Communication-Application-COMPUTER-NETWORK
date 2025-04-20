@@ -23,9 +23,8 @@ To run this P2P messenger:
 2. Clone the repository and navigate to the project directory.
 3. Run:
 
-```bash
-npm install
-npm start
+
+
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/ebb52eae-e8f4-46be-b2bc-02e58a7eaf2d)
 
@@ -37,6 +36,13 @@ npm start
 ![image](https://github.com/user-attachments/assets/353b291a-7bee-4405-b5af-23978a1b9304)
 ### DECRYPTED FILE
 ![image](https://github.com/user-attachments/assets/de493c25-ef8f-4a81-bb02-f4a80235c2af)
+
+
+```bash
+npm install
+npm start
+
+
 
 
 
